@@ -27,7 +27,7 @@ Consolas, Liberation Mono).
 | `public/art/fern.svg`, `poppy.svg`, `lupine.svg`, `agave.svg`, `stars.svg` | Vector specimen plates and star field | Drawn procedurally by `scripts/generate-specimens.py` / project code | MIT (project original) |
 | `public/art/botanical/fern.webp`, `poppy.webp`, `lupine.webp`, `agave.webp` | Botanical plates used by the exhibit index cards | Produced for this project and first published with the v0.2.0 exhibition | MIT (project original) |
 | `src/app/icon.svg` | Site icon | Project original | MIT (project original) |
-| `docs/preview.webp`, `docs/preview-exhibits.webp` | Screenshots of the live site | Captured from `https://wonder-nature.xingh.cc` | MIT (project original) |
+| `docs/preview.webp` | Screenshot of the live site | Captured from `https://wonder-nature.xingh.cc` | MIT (project original) |
 
 No Poly Haven, three.js vendor bundle, GLTF model or external texture is
 redistributed in this repository. Those assets exist only in the private
